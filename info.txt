@@ -1,0 +1,4 @@
+MongoDB atlas
+Username - dilshankumarage571_db_user
+Password - 2KiHJpfIcNVx8CFN
+JWT_SECRET=dilshankumarage571

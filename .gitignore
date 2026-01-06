@@ -1,0 +1,7 @@
+# Ignore root-level info file
+info
+
+# (Optional) Ignore any other root junk
+.env
+node_modules
+.DS_Store
